@@ -3,16 +3,14 @@
   "version": "0.7.4",
   "summary": "A simple, horizontally-scrolling list of buttons.",
   "description": "A simple, horizontally-scrolling list of buttons that can be used as a more flexible replacement for UISegmentedControl.",
-  "homepage": "https://github.com/nileshgalaxy/HTHorizontalSelectionList.git",
+  "homepage": "https://github.com/nileshgalaxy/HTHorizontalSelectionList",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "Erik Ackermann": "erik@gethightower.com",
-    "Dustin Burge": "dustin@gethightower.com"
+    "Nilesh Patel": "nilesh.patel@galaxyweblinks.in",
   },
-  "social_media_url": "http://twitter.com/erikwithfriends",
   "platforms": {
     "ios": "7.0"
   },
