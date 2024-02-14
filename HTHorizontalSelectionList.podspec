@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   
     s.homepage     = "https://github.com/nileshgalaxy/HTHorizontalSelectionList.git"
     s.license      = "MIT"
-    s.author       = { "nileshgalaxy" => "nilesh.patel@galaxyweblinks.in" }
+    s.author       = { "nileshgalaxy" => "nilesh.patel@galaxyweblinks.in":tag => "0.7.4" }
   
     s.ios.deployment_target = "9.0"
     s.tvos.deployment_target = "9.0"
