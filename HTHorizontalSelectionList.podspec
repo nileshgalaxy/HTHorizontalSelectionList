@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
  
   s.source_files = "Source/**/*.{h,m}"
   s.requires_arc = true
-  s.dependency = 'M13BadgeView', '~> 1.0.4'
+  s.dependency 'M13BadgeView', '~> 1.0.4'
   s.frameworks = [
     "Foundation",
     "UIKit"
