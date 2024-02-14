@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
   
     s.swift_versions = ['5.1', '5.2', '5.3']
   
-    s.source_files = "HTHorizontalSelectionList/*.h"
+    s.source_files = "HTHorizontalSelectionList"
     s.requires_arc = true
   
     s.source       = { :git => "https://github.com/nileshgalaxy/HTHorizontalSelectionList.git" }
